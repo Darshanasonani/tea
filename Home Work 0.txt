@@ -1,0 +1,5 @@
+1. write a program to calculate and display area of triangle using given height & base
+ 
+2. write a program to calculate and display area of circle using given height & base
+
+3. write a program to convert farenheit into celilcious
